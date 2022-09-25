@@ -11,8 +11,8 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
-	imageBackground: false,
+	name: 'Siddharth',
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: '29d02fbbfddedc0b29c989b700c1a947', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Gmail',
+			icon: 'mail',
+			link: 'https://mail.google.com/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Reddit',
+			icon: 'glasses',
+			link: 'https://reddit.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Premier League',
+			icon: 'glasses',
+			link: 'https://premierleague.com',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Discord',
+			icon: 'bot',
+			link: 'https://discord.com/app',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Twitch',
+			icon: 'trello',
+			link: 'https://twitch.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
