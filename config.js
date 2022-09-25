@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Purrple Cat',
+					link: 'https://www.youtube.com/watch?v=bJUO1WnjXQY',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'DreamHop',
+					link: 'https://www.youtube.com/watch?v=A6rK6_VqBls',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Gaming',
+					link: 'https://www.youtube.com/watch?v=UOxkGD8qRB4&list=PU2t5bjwHdUX4vM2g8TRDq5g',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Radio 1',
+					link: 'https://www.youtube.com/watch?v=m12yFt4q_8A&list=PLguFUk3bkoTsFJ6kniO6wDsRjfXgcatkD',
 				},
 			],
 		},
