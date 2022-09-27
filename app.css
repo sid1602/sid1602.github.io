@@ -18,7 +18,7 @@
   --fg-secondary: 3vh; /* Greetings and Weather widger */
   --fg-date: 8vh; /* Date */
   --fg-list: 2vh; /* Links List */
-  --icon: 3vh; /* Icon Size */
+  --icon: 6vh; /* Icon Size */
 
   /* Fonts Color */
   --fg: #3a3a3a; /* Foreground color */
@@ -101,8 +101,8 @@ body {
 }
 
 #themeIcon {
-  width: 25px;
-  height: 25px;
+  width: 32px;
+  height: 32px;
 }
 
 .container {
