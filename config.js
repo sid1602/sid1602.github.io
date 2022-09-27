@@ -66,13 +66,13 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Premier League',
-			icon: 'lar la-futbol',
+			icon: 'las la-futbol',
 			link: 'https://premierleague.com',
 		},
 		{
 			id: '4',
 			name: 'Discord',
-			icon: 'las la-discord',
+			icon: 'lab la-discord',
 			link: 'https://discord.com/app',
 		},
 		{
@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'headphones',
+			icon: 'las la-headphones',
 			id: '1',
 			links: [
 				{
@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'las la-coffee',
 			id: '2',
 			links: [
 				{
