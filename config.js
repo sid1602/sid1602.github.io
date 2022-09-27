@@ -54,31 +54,31 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Gmail',
-			icon: 'mail',
+			icon: 'envelope',
 			link: 'https://mail.google.com/',
 		},
 		{
 			id: '2',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'reddit',
 			link: 'https://reddit.com/',
 		},
 		{
 			id: '3',
 			name: 'Premier League',
-			icon: 'glasses',
+			icon: 'futbol',
 			link: 'https://premierleague.com',
 		},
 		{
 			id: '4',
 			name: 'Discord',
-			icon: 'bot',
+			icon: 'discord',
 			link: 'https://discord.com/app',
 		},
 		{
 			id: '5',
 			name: 'Twitch',
-			icon: 'trello',
+			icon: 'twitch',
 			link: 'https://twitch.com',
 		},
 		{
